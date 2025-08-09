@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Catalyst.Data\Catalyst.Data.csproj" />
-  </ItemGroup>
-
 </Project>
